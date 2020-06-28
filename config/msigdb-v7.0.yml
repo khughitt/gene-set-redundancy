@@ -1,0 +1,9 @@
+#
+# MSigDB v7.0 Gene Sets
+#
+output_dir: "/data/nih/gene-sets/redundancy"
+
+name: "msigdb"
+version: "v7.0"
+
+gmts: "/data/gmt/custom/msigdb/v7.0/*.gmt"
